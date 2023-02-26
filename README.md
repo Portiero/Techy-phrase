@@ -2,4 +2,4 @@
 
 ## Live link: https://portiero.github.io/Techy-phrase/
 
-This easy project demonstrates consuming an *API*
+This easy project demonstrates consuming an **API**
